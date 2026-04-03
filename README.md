@@ -1,6 +1,6 @@
 # TrialSync
 
-BioMatch connects patients to active clinical trials using AI. Upload a medical record, get a ranked list of trials you actually qualify for — with plain-language explanations of why each one is a match.
+TrialSync connects patients to active clinical trials using AI. Upload a medical record, get a ranked list of trials you actually qualify for — with plain-language explanations of why each one is a match.
 
 ## The problem
 
